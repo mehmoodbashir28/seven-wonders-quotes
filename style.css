@@ -23,6 +23,10 @@ header{
     font-size: 3em;
 
 }
+
+#githubPagesLink:link{
+     text-decoration: none;
+}
 span{
 	background:linear-gradient(to right,#543b57,#425362,#bea177);
     -webkit-text-fill-color:transparent;
